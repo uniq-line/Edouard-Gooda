@@ -5,6 +5,6 @@
 - 📫 How to reach me  edouard.gooda@gmail.com
 
 <!---
-uniq-line/uniq-line is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Edouard Gooda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
